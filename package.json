@@ -1,0 +1,21 @@
+{
+  "name": "simple-gemini-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@libsql/client": "^0.17.3",
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2",
+    "googleapis": "^173.0.0",
+    "openai": "^6.42.0"
+  }
+}

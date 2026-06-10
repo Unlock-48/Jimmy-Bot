@@ -1,0 +1,6 @@
+# สกัดไฟล์ลับและโฟลเดอร์ที่ไม่จำเป็น
+.env
+src/google-key.json
+src/oauth-credentials.json
+src/token.json
+node_modules/
